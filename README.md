@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<h1 align="center"> Hi there, I'm Fahd 👋</h1>
+  
+<h4>Front-end web developer</h4>
 <!--
 **fahdfady/fahdfady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
