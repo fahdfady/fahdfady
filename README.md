@@ -1,9 +1,7 @@
 <h1 align="center"> Hi there, I'm Fahd 👋</h1>
 
-<div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3200&color=AA83FF&center=true&lines=A+passionate+frontend+developer)](https://git.io/typing-svg)
- </div>
- 
+
 - 🌱 I’m currently learning **Reactjs**
 
 - 📫 How to reach me **fahd.fady212@gmail.com**
