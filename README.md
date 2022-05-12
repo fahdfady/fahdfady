@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://twitter.com/fahd_fady212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fahd_fady212" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fahd ashour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahd ashour" height="30" width="40" /></a>
-<a href="https://fb.com/fahd fady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahd fady" height="30" width="40" /></a>
+<a href="https://fb.com/FahdFady212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahd fady" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
