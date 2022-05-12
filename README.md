@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I'm Fahd 👋</h1>
 
-<h3 align="center">A passionate frontend developer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3200&color=AA83FF&center=true&lines=A+passionate+frontend+developer)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **Reactjs**
 
