@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Reactjs**
 
-- 📫 How to reach me **fahd.fady212@gmail.com**, or <a href="https://fahdfady.github.io/fahddev/"> my website </a>
+- 📫 How to reach me **fahd.fady212@gmail.com**, or <a href="https://fahddev.vercel.app/"> my website </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
