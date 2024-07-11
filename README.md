@@ -14,4 +14,4 @@
 <a href="https://instagram.com/fahddev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahd fady" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahdfady&show_icons=true&locale=en&layout=compact" alt="fahdfady" /></p>
+<p>![image](https://github.com/fahdfady/fahdfady/assets/55513802/8f2f31d7-ad1b-4765-807a-a5e74207f6a9)</p>
