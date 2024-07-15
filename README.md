@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3200&color=AA83FF&center=true&vCenter=true&lines=A+passionate+frontend+developer)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **Next** and **TypeScript**
+- 🌱 I’m currently learning **Next** and **Rust**
 
 - 📫 How to reach me **fahd.fady212@gmail.com**, or <a href="https://fahddev.vercel.app/"> my website </a>
 
