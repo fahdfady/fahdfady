@@ -12,7 +12,6 @@
 <a href="https://linkedin.com/in/fahdashour/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahd ashour" height="30" width="40" /></a>
 </p>
 
-<p>opensource contributor <a href="https://github.com/meshery">@Meshery</a> & <a href="https://github.com/layer5io"> @Layer5</a></p>
  <a href= "https://cloud.layer5.io/user/0f31f08a-624b-4304-92de-8da67944ffb0?tab=badges&badge=ui-ux" >
     <img src = "https://badges.layer5.io/assets/badges/ui-ux/ui-ux.png" alt = "UI/UX" style="height:200px; width:auto;"  />
   </a >
