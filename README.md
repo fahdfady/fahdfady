@@ -1,13 +1,7 @@
-<h1 align="center"> Hi there, I'm Fahd 👋</h1>
+<h1 align="center"> Hi there, I'm Fahd فهد 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=3200&color=AA83FF&center=true&vCenter=true&lines=A+passionate+software+developer)](https://git.io/typing-svg)
+I'm a passionate software engineer. Now mainly I'm writing **Rust** and actively contributing to [MetaCall](https://github.com/metacall/core) rust port, and [MetaSSR](https:://github.com/metacall/metassr) the web framework built on top of MetaCall.
 
-- How to reach me **fahd.fady212@gmail.com**, <a href="https://fahdashour.com/"> my website </a>, or on [LinkedIn](https://linkedin.com/in/fahdashour)
+I'm looking for oppurtunities, if you're interested in hiring/working with me you can check [my linkedin](https://linkedin/in/fahdashour)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://x.com/fahdashwr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fahdashwr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fahdashour/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahd ashour" height="30" width="40" /></a>
-</p>
-
-<image align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahdfady&theme=shades-of-purple&hide_border=true" /> 
+You can check my personal Website https://fahdashour.com
